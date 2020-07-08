@@ -5,7 +5,7 @@ This is a private repository.
 
 ## Project Description
 
-We want to demonstrate that our analyais strategy (strategy 1) outperforms the conventional one (strategy 2) for fMRI Data. 
+We want to demonstrate that our analyais strategy (strategy 1) outperforms the conventional one (strategy 2) for T1-weighted MRI Data. 
 
 ![image](resources/solutions.png)
 
