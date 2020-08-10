@@ -4,7 +4,7 @@
 This repository 
 We demonstrated that our proposed scanner-specific analysis strategy outperformed the conventional analysis strategy. Therefore, the proposed analysis strategy is recommended when one applies source-based morphometry in a multi-centre MRI study.
 
-![image](resources/flowchart.tif)
+![image](resources/flowchart.jpg)
 
 ## Citation
 If you use the simulation code, please cite: (TBD)
