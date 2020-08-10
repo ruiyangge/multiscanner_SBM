@@ -3,7 +3,7 @@
 
 We want to demonstrate that our analyais strategy (scanner-specific strategy) outperforms the conventional one for T1-weighted structural MRI Data. 
 
-![image](resources/solutions.png)
+![image](resources/flowchart.bmp)
 
 ## Application 
 
