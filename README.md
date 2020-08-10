@@ -1,6 +1,4 @@
 # Source-based morphometer for multi-centre MRI studies
-This is a private repository. 
-
 ## Project Description
 
 We want to demonstrate that our analyais strategy (scanner-specific strategy) outperforms the conventional one for T1-weighted structural MRI Data. 
