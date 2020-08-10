@@ -11,3 +11,5 @@ Neuroimaging research is a collaborative effort, collaborative networks of resea
 
 A prominent issue with a multicentre study is the heterogeneity of the data from scanners with different manufacturers (Siemens, GE, Philips…) and field strength (1.5T, 3T…).
 
+We demonstrated that our proposed scanner-specific analysis strategy outperformed the conventional analysis strategy. Therefore, the proposed analysis strategy is recommended when one applies source-based morphometry in a multi-centre MRI study.
+
