@@ -1,7 +1,7 @@
 # Source-based morphometry for multi-centre MRI studies
 ## Project Description
 
-We demonstrate that our analyais strategy (scanner-specific strategy) outperforms the conventional one for T1-weighted structural MRI Data. 
+We demonstrate that our analyais strategy (scanner-specific strategy) outperforms the conventional one for the multi-centre MRI study. 
 
 ![image](resources/flowchart.bmp)
 
