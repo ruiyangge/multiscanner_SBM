@@ -5,6 +5,9 @@ We demonstrate that our analyais strategy (scanner-specific strategy) outperform
 
 ![image](resources/flowchart.bmp)
 
+## Citation
+If you use the simulation code, please cite: (TBD)
+
 ## Application 
 
 Neuroimaging research is a collaborative effort, collaborative networks of researchers working together on a range of large-scale studies have been initiated.
