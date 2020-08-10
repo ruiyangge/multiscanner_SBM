@@ -1,11 +1,9 @@
-# MRI Independent Component Analysis
-
-This project belongs to the [UBC NINET Lab](https://ninet.med.ubc.ca/).
+# Source-based morphometer for multi-centre MRI studies
 This is a private repository. 
 
 ## Project Description
 
-We want to demonstrate that our analyais strategy (strategy 1) outperforms the conventional one (strategy 2) for T1-weighted structural MRI Data. 
+We want to demonstrate that our analyais strategy (scanner-specific strategy) outperforms the conventional one for T1-weighted structural MRI Data. 
 
 ![image](resources/solutions.png)
 
@@ -15,6 +13,3 @@ Neuroimaging research is a collaborative effort, collaborative networks of resea
 
 A prominent issue with a multicentre study is the heterogeneity of the data from scanners with different manufacturers (Siemens, GE, Philips…) and field strength (1.5T, 3T…).
 
-## Deadline
-
-Paper draft by end of August
