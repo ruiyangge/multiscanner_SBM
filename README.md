@@ -7,7 +7,7 @@ We demonstrated that our proposed scanner-specific analysis strategy outperforme
 ![image](resources/flowchart.jpg)
 
 ## Citation
-If you use the simulation code, please cite:"Comparison of Two Source-based Morphometry Analysis Strategies for Multi-Centre Studies: A Simulation Study
+If you use the simulation code, please cite:"Comparison of Two Source-based Morphometry Analysis Strategies for Multi-Centre Studies: A Simulation Study,
 Ruiyang Ge, Shiqing Ding, Tyler Keeling, Sophia Frangoua, Fidel Vila-Rodriguez, In preparation".
 
 
