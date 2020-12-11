@@ -7,7 +7,7 @@ We demonstrated that our proposed scanner-specific analysis strategy outperforme
 ![image](resources/flowchart.jpg)
 
 ## Citation
-If you use the simulation code, please cite:"SS-Detect: Development and Validation of a New Strategy for Source-Based Morphometry in Multi-Scanner Studies (https://www.biorxiv.org/content/10.1101/2020.09.03.282236v2)".
+If you use the simulation code, please cite:"Ruiyang Ge, Shiqing Ding, Tyler Keeling, William G. Honer, Sophia Frangou & Fidel Vila-Rodriguez, SS-Detect: Development and Validation of a New Strategy for Source-Based Morphometry in Multi-Scanner Studies, Journal of Neuroimaging, In press (https://onlinelibrary.wiley.com/doi/abs/10.1111/jon.12814)".
 
 
 ## Application 
